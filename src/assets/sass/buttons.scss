@@ -1,0 +1,38 @@
+.btn {
+	background-color: $color-white !important;
+	border: 2px solid !important;
+}
+
+.all-contacts {
+  background-color: $color-primary !important;
+	padding: 15px !important;
+  
+
+	&:hover {
+		color: $color-primary !important;
+		background-color: $color-white !important;
+	}
+}
+
+.us-contacts {
+	background-color: $color-secondary !important;
+	margin: 10px;
+	padding: 15px !important;
+
+	&:hover {
+		color: $color-secondary !important;
+		background-color: white !important;
+	}
+}
+
+.close-btn {
+	background-color: $color-primary !important;
+  margin: 10px;
+	padding: 15px !important;
+  
+
+	&:hover {
+		color: $color-primary !important;
+		background-color: $color-white !important;
+	}
+}
